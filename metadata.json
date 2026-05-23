@@ -1,0 +1,6 @@
+{
+  "name": "Iqlimoy",
+  "description": "O'zbekiston uchun sun'iy yo'ldosh va ekologik monitoring platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
